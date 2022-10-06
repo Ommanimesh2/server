@@ -1,0 +1,12 @@
+{
+  "name": "crop-application",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@google/earthengine": "^0.1.326",
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20"
+  }
+}
